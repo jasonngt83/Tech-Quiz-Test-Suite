@@ -1,6 +1,7 @@
 # Tech Quiz Test Suite
 
-![Screenshot of End to End Cypress test results](e2e-test-results.png)
+Link to video
+https://app.screencastify.com/v3/watch/oQSw52YF2Ll793hVwV3q
 
 ## Description
 

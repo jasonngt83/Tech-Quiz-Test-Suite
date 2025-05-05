@@ -1,7 +1,6 @@
-
 describe('Quiz App', () => {
     beforeEach(() => {
-      cy.visit('/quiz');
+      cy.visit('/'); // Adjust the path to your QuizApp component
     });
   
     it('starts the quiz when clicking "Start Quiz"', () => {
